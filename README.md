@@ -20,12 +20,14 @@ Olá, me chamo Jamerson Lima, e sou um desenvolvedor Fullstack apaixonado pela a
 <br>
 <br>
 <br>
+
 [![Jamerson Lima stats](https://github-readme-stats.vercel.app/api?username=JamersonLima26&theme=dark&show_icons=true)]
 (https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamersonLima26&layout=compact)
 
 
